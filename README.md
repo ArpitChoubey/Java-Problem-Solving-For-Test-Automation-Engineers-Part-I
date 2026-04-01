@@ -1,4 +1,4 @@
-# Java Programming Interview Questions — Part I 🚀
+# Java Problem-Solving-For-Test-Automation-Engineers-Part-I 🚀
 
 A curated collection of **55 Java programs** every **Tester, SDET, and Automation Engineer** should practice before their next technical interview.
 
